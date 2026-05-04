@@ -152,18 +152,7 @@ Full I/O list and ladder logic are in the [Technical Report](#documentation).
 
 ---
 
-## Team
 
-| Role | Name | |
-| --- | --- | --- |
-| PM1 | Zahra Malekimoghadam | Mechanical design lead, sensor calibration |
-| PM2 | Harpreet Singh | PLC programming, IoT dashboard, electrical integration |
-
-**Instructor:** Iakov Romanovski — TPJ653 NAA, Seneca Polytechnic
-
----
-
-## License
 
 This project was developed for academic credit at Seneca Polytechnic. Code and design files are shared for portfolio and educational reference. Reach out before reusing in commercial work.
 
